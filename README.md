@@ -4,7 +4,7 @@
 ### Knowledge Bases Question Answering
 
 ### Knowledge Graphs for Recommendation
-- [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable Reasoning over Knowledge Graphs for Recommendation.md)
+- [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
 ## Natural Language Understanding(NLU) Related
 
