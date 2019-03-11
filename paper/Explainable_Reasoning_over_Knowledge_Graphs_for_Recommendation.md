@@ -16,6 +16,6 @@
 ![Model Structure](pic/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation_fig2.PNG)
 
 ## Source Code
-### [Knowledge-aware Path Recurrent Network(KPRN)](https://github.com/eBay/KPRN)
+- [Knowledge-aware Path Recurrent Network(KPRN)](https://github.com/eBay/KPRN)
 
 
