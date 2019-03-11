@@ -7,6 +7,10 @@
 - KG
 - Recommendation
 
+## Contribution
+- Propose an end-to-end neural network model to learn path semantics and integrate them into recommendation
+- The model can better reveal the reasons behind a recommendation(explainable)
+
 ## Summary
 1. Extract all the interact paths within 6 hops between entities
 ![Knowledge Graph](pic/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation_fig1.PNG)
