@@ -19,6 +19,7 @@
 - Some Tricks:
 1. Data Augmentation with synonyms replacement
 2. Encode the input text with backward order to make it easy for fully connected layers to associate weights with the latest reading
+![Results](pic/Character-level_Convolutional_Networks_for_Text_Classification_fig3.PNG)
 
 ## Source Code
 - [Unofficial source](https://github.com/mhjabreel/CharCNN)
