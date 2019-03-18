@@ -18,3 +18,6 @@
 - [2015 NIPS] **Character-level Convolutional Networks** for Text Classification [summary](/paper/Character-level_Convolutional_Networks_for_Text_Classification.md)
 - [2015 AAAI] **Recurrent Convolutional Neural Networks** for Text Classification [summary](/paper/Recurrent_Convolutional_Neural_Networks_for_Text_Classification.md)
 - [2014 EMNLP] **Convolutional Neural Networks** for Sentence Classification [summary](/paper/Convolutional_Neural_Networks_for_Sentence_Classification.md)
+
+## Conversation Model
+- [AAAI 2018] A Knowledge-Grounded Neural Conversation Model [summary](/paper/A_Knowledge-Grounded_Neural_Conversation_Model.md)
