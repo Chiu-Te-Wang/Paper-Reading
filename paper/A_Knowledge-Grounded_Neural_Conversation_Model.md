@@ -18,12 +18,12 @@
 - The facts are retrieved with the input sequence by keyword-based IR engine.
 - Facts encoder is similar to the Memory Network model.
 
-- Multi-Task Learning:
-1. FACTS task: 
+- **Multi-Task Learning**:
+1. **FACTS task**: 
  Expose the full model to ({f1, ..., fn,S}, R) training examples
-2. NOFACTS task: 
+2. **NOFACTS task**: 
  Expose the model without fact encoder to (S, R) examples.
-3. AUTOENCODER task: 
+3. **AUTOENCODER tas**k: 
  Similar to the FACTS task, except that we replace the response with each of the facts, i.e., this model is trained on ({f1, ..., fn,S}, fi) examples.
 
 - Models with different combinations of Multi-Task Learning tasks
