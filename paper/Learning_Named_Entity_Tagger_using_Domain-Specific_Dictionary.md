@@ -27,13 +27,13 @@
 	 It focuses on the ties between adjacent tokens, i.e., whether they are tied in the same entity mentions or broken into two parts
 	 ![Tie or Break Tagging Scheme](pic/Learning_Named_Entity_Tagger_using_Domain-Specific_Dictionary_fig3.PNG)
 	- AutoNER:
-	 - For entity span detection, build a binary classifier to distinguish Break from Tie, while Unknown positions will be skipped.
-	 - After obtaining candidate entity spans, we further identify their entity types, including the None type for non-entity spans.
+		- For entity span detection, build a binary classifier to distinguish Break from Tie, while Unknown positions will be skipped.
+		- After obtaining candidate entity spans, we further identify their entity types, including the None type for non-entity spans.
 
 3. Others:
 	- About "Unknown" Entities:
-	 - FuzzyCRF : consider all possible labels
-	 - AutoNER : skip it
+		- FuzzyCRF : consider all possible labels
+		- AutoNER : skip it
 	- Corpus-Aware Dictionary Tailoring:
 	 Tailor the original dictionary to a corpus-related subset by excluding entities whose canonical names never appear in the given corpus.
 
