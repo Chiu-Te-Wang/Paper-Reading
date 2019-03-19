@@ -21,3 +21,6 @@
 
 ## Conversation Model
 - [AAAI 2018] A Knowledge-Grounded Neural Conversation Model [summary](/paper/A_Knowledge-Grounded_Neural_Conversation_Model.md)
+
+## Named Entity Recognition
+- [Arxiv 2018] Learning Named Entity Tagger using Domain-Specific Dictionary [summary](/paper/Learning_Named_Entity_Tagger_using_Domain-Specific_Dictionary.md)
