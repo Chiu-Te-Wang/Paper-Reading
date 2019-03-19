@@ -17,8 +17,8 @@
 2. Apply the encode from step1 to a CNN
 ![Model Structure](pic/Character-level_Convolutional_Networks_for_Text_Classification_fig2.PNG)
 - Some Tricks:
-1. Data Augmentation with synonyms replacement
-2. Encode the input text with backward order to make it easy for fully connected layers to associate weights with the latest reading
+	1. Data Augmentation with synonyms replacement
+	2. Encode the input text with backward order to make it easy for fully connected layers to associate weights with the latest reading
 ![Results](pic/Character-level_Convolutional_Networks_for_Text_Classification_fig3.PNG)
 
 ## Source Code

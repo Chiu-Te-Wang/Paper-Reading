@@ -10,8 +10,8 @@
 ## Contribution
 - Apply RNN + Max-pooling to the text classification
 - Utilize the advantage of both RNN and CNN
- - RNN : Better disambiguate the meaning of the word compared to conventional neural models that only use a fixed window
- - CNN : Find the most important latent semantic factors in the document
+	- RNN : Better disambiguate the meaning of the word compared to conventional neural models that only use a fixed window
+	- CNN : Find the most important latent semantic factors in the document
 
 ## Summary
 1. Use a bidirection RNN to encode the input text

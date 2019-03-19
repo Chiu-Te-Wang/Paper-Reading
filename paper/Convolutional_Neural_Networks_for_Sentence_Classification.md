@@ -15,10 +15,10 @@
 1. Use CNN to extract the features from the embeddings of the sentence
 ![CNN model architecture](pic/Convolutional_Neural_Networks_for_Sentence_Classification_fig1.PNG)
 2. CNN model design
-- CNN-rand : embedding randomly initialized and modify while training
-- CNN-static : embedding initialize with google pre-train and stay static throuth training
-- CNN-non-static : embedding initialize with google pre-train but fine tune through training
-- CNN-multichannel: combine CNN-static and CNN-non-static, see them as multi-channel as RGB channel in image
+	- CNN-rand : embedding randomly initialized and modify while training
+	- CNN-static : embedding initialize with google pre-train and stay static throuth training
+	- CNN-non-static : embedding initialize with google pre-train but fine tune through training
+	- CNN-multichannel: combine CNN-static and CNN-non-static, see them as multi-channel as RGB channel in image
 ![Result table](pic/Convolutional_Neural_Networks_for_Sentence_Classification_fig2.PNG)
 
 ## Source Code
