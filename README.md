@@ -24,3 +24,6 @@
 
 ## Named Entity Recognition
 - [Arxiv 2018] Learning Named Entity Tagger using Domain-Specific Dictionary [summary](/paper/Learning_Named_Entity_Tagger_using_Domain-Specific_Dictionary.md)
+
+## Nature Language Generation(NLG)
+- [Arxiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
