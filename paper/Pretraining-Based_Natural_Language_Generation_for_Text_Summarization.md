@@ -14,6 +14,7 @@
 - Design a two-stage decoder process that can generate each word of the summary considering both sides' context information
 
 ## Summary
+Propose a novel pretraining-based encoder-decoder framework, which can generate the output sequence based on the input sequence in a two-stage manner.
 ![Model architecture](pic/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization_fig1.PNG)
 1. Context Embedding Encoder:
  Use BERT as the encoder. It first maps the input sequence to word embeddings and then computes document embeddings as the encoder's output
