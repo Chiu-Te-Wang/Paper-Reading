@@ -21,6 +21,7 @@
 
 ## Conversation Model
 - [AAAI 2018] A Knowledge-Grounded Neural Conversation Model [summary](/paper/A_Knowledge-Grounded_Neural_Conversation_Model.md)
+- [AAAI 2018] Augmenting End-to-End Dialogue Systems with Commonsense Knowledge [summary](/paper/Augmenting_End-to-End_Dialogue_Systems_with_Commonsense_Knowledge.md)
 - [IJCAI 2018] Commonsense Knowledge Aware Conversation Generation with Graph Attention [summary](/paper/Knowledge_Aware_Conversation_Generation_with_Graph_Attention.md)
 
 ## Named Entity Recognition
