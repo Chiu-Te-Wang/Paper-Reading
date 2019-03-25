@@ -8,7 +8,8 @@
 - Conversation Model
 
 ## Contribution
-- 
+- Investigates the impact of providing commonsense knowledge about the concepts covered in the dialogue.
+- Not only cansider the message, but also consider the information in commonsense knowledge to solve the retrieval-based conversational task.
 
 ## Summary
 - This paper investigates the impact of providing commonsense knowledge about the concepts covered in the dialogue. 
