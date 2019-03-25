@@ -7,6 +7,7 @@
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
 ## Natural Language Understanding(NLU) Related
+- [Arxiv 2019] Multi-Task Deep Neural Networks for Natural Language Understanding [summary](/paper/Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.md)
 
 ## Language Representation
 
