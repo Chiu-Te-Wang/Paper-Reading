@@ -28,6 +28,7 @@
 ## Named Entity Recognition
 - [Arxiv 2018] Learning Named Entity Tagger using Domain-Specific Dictionary [summary](/paper/Learning_Named_Entity_Tagger_using_Domain-Specific_Dictionary.md)
 - [NAACL 2018] A Neural Layered Model for Nested Named Entity Recognition [summary](/paper/A_Neural_Layered_Model_for_Nested_Named_Entity_Recognition.md)
+- [EMNLP 2018] Neural Segmental Hypergraphs for Overlapping Mention Recognition [summary](/paper/Neural_Segmental_Hypergraphs_for_Overlapping_Mention_Recognition.md)
 
 ## Nature Language Generation(NLG)
 - [Arxiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
