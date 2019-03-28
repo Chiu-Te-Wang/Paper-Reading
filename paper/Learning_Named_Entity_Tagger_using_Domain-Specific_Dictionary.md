@@ -1,6 +1,6 @@
 # Learning Named Entity Tagger using Domain-Specific Dictionary
 ## Information
-- 2018 Arxiv
+- 2018 arXiv
 - Shang, Jingbo, et al.
 
 ## Keywords

@@ -1,6 +1,6 @@
 # Pretraining-Based Natural Language Generation for Text Summarization
 ## Information
-- 2019 Arxiv
+- 2019 arXiv
 - Zhang, Haoyu, et al.
 
 ## Keywords
