@@ -14,6 +14,7 @@
 
 ## Language Representation
 - [arXiv 2019] Cross-lingual Language Model Pretraining [summary](/paper/Cross-lingual_Language_Model_Pretraining.md)
+- [arXiv 2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [summary](/paper/BERT-_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.md)
 
 ## Text Classification
 - [2019 AAAI] **Graph Convolutional Networks** for Text Classification [summary](/paper/Graph_Convolutional_Networks_for_Text_Classification.md)
