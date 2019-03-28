@@ -14,7 +14,7 @@
 - Process the language data with Byte Pair Encoding (BPE) and propose 2 methods to learn cross-lingual language models (XLMs).
 ![Model Structure](pic/Cross-lingual_Language_Model_Pretraining_fig1.PNG)
 1. MLM(Masked Language Modeling):
-	MLM is an unsupervised method that derives from the idea of BERT.
+	MLM is an unsupervised method that derives from the idea of BERT. However, instead of using pairs of sentences, use text streams of an arbitrary number of sentences (truncated at 256 tokens).
 	![Masked Language Modeling Structure](pic/Cross-lingual_Language_Model_Pretraining_fig2.PNG)
 2. TLM(Translation Language Modeling): 
 	TLM is an supervised method which uses parallel data and the masked method in BERT to train model.
