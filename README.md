@@ -9,6 +9,7 @@
 ## Natural Language Understanding(NLU) Related
 - [arXiv 2019] Multi-Task Deep Neural Networks for Natural Language Understanding [summary](/paper/Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.md)
 - [NAACL-HLT 2018] Slot-Gated Modeling for Joint Slot Filling and Intent Prediction(Short Papers) [summary](/paper/Slot-Gated_Modeling_for_Joint_Slot_Filling_and_Intent_Prediction.md)
+- [Interspeech 2016] Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [summary](/paper/Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling.md)
 
 ## Language Representation
 - [arXiv 2019] Cross-lingual Language Model Pretraining [summary](/paper/Cross-lingual_Language_Model_Pretraining.md)
