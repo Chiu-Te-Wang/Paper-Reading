@@ -30,6 +30,7 @@
 - [NAACL 2018] A Neural Layered Model for Nested Named Entity Recognition [summary](/paper/A_Neural_Layered_Model_for_Nested_Named_Entity_Recognition.md)
 - [EMNLP 2018] Neural Segmental Hypergraphs for Overlapping Mention Recognition [summary](/paper/Neural_Segmental_Hypergraphs_for_Overlapping_Mention_Recognition.md)
 - [NAACL 2018] Nested Named Entity Recognition Revisited [summary](/paper/Nested_Named_Entity_Recognition_Revisited.md)
+- [EMNLP 2017] Labeling Gaps Between Words: Recognizing Overlapping Mentions with Mention Separators [summary](/paper/Labeling_Gaps_Between_Words-_Recognizing_Overlapping_Mentions_with_Mention_Separators.md)
 
 ## Nature Language Generation(NLG)
 - [Arxiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
