@@ -2,6 +2,7 @@
 
 ## Knowledge Graph(KG) Related
 ### Knowledge Bases Question Answering
+- [ACL 2017] An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge [summary](/paper/An_End-to-End_Model_for_Question_Answering_over_Knowledge_Base_with_Cross-Attention_Combining_Global_Knowledge.md)
 
 ### Knowledge Graphs for Recommendation
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
