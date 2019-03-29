@@ -1,5 +1,6 @@
 # Paper Reading Summary
 
+# NLP Related Papers
 ## Knowledge Graph(KG) Related
 ### Knowledge Bases Question Answering
 - [ACL 2017] An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge [summary](/paper/An_End-to-End_Model_for_Question_Answering_over_Knowledge_Base_with_Cross-Attention_Combining_Global_Knowledge.md)
@@ -40,3 +41,7 @@
 
 ## Nature Language Generation(NLG)
 - [arXiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
+
+# Other Categories of Papers
+## Model Design(Model Archetecture, Optimizer, loss function, ...)
+- [ICCV 2017] Focal Loss for Dense Object Detection [summary](/paper/other_papers/Focal_Loss_for_Dense_Object_Detection.md)
