@@ -15,20 +15,20 @@
 - Propose a reshaping the standard cross entropy loss such that it down-weights the loss assigned to well-classified examples to address class imbalance(hard or imbalance class).
 
 - The Normal Cross Entropy (CE) Loss: (binary classification for example)
-	![The Normal CE Loss](other_papers/pic/Focal_Loss_for_Dense_Object_Detection_fig1.PNG)
+	![The Normal CE Loss](pic/Focal_Loss_for_Dense_Object_Detection_fig1.PNG)
 - The Balanced Cross Entropy Loss:
-	![The Balanced CE Loss](other_papers/pic/Focal_Loss_for_Dense_Object_Detection_fig2.PNG)
+	![The Balanced CE Loss](pic/Focal_Loss_for_Dense_Object_Detection_fig2.PNG)
 	, where α<sub>t</sub> represent that the weighting factor α∈[0,1] for class 1, and 1-α for class -1
 - The Focal Loss:
-	![The Focal Loss](other_papers/pic/Focal_Loss_for_Dense_Object_Detection_fig3.PNG)
+	![The Focal Loss](pic/Focal_Loss_for_Dense_Object_Detection_fig3.PNG)
 	, where γ is the focusing parameter γ >= 0(in this paper γ use 2)
 	- The focusing parameter γ smoothly adjusts the rate at which easy examples are downweighted.
 	- γ = 0, FL is equivalent to CE
 - The Balanced CE + Focal Loss:
-	![The Balanced CE + Focal Loss](other_papers/pic/Focal_Loss_for_Dense_Object_Detection_fig4.PNG)
+	![The Balanced CE + Focal Loss](pic/Focal_Loss_for_Dense_Object_Detection_fig4.PNG)
 
 - Results:
-	![Results](other_papers/pic/Focal_Loss_for_Dense_Object_Detection_fig5.PNG)
+	![Results](pic/Focal_Loss_for_Dense_Object_Detection_fig5.PNG)
 
 ## Source Code
 - [Detectron](https://github.com/facebookresearch/Detectron)
