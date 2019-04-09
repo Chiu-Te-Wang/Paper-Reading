@@ -10,15 +10,15 @@
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
 ## Natural Language Understanding(NLU) Related
-- [arXiv 2019] Multi-Task Deep Neural Networks for Natural Language Understanding [summary](/paper/Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.md)
+- [arXiv 2019] Multi-Task Deep Neural Networks for Natural Language Understanding(MT-DNN) [summary](/paper/Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.md)
 - [AAAI 2019] DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching [summary](/paper/DRr-Net_Dynamic_Re-read_Network_for_Sentence_Semantic_Matching.md)
 - [NAACL-HLT 2018] Slot-Gated Modeling for Joint Slot Filling and Intent Prediction(Short Papers) [summary](/paper/Slot-Gated_Modeling_for_Joint_Slot_Filling_and_Intent_Prediction.md)
 - [Interspeech 2016] Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [summary](/paper/Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling.md) 
 
 ## Language Representation
 - [arXiv 2019] Cross-lingual Language Model Pretraining [summary](/paper/Cross-lingual_Language_Model_Pretraining.md)
-- [arXiv 2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding [summary](/paper/BERT-_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.md)
-- [website 2018] Improving Language Understanding by Generative Pre-Training [summary](/paper/Improving_Language_Understanding_by_Generative_Pre-Training.md)
+- [arXiv 2018] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(BERT) [summary](/paper/BERT-_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.md)
+- [website 2018] Improving Language Understanding by Generative Pre-Training(GPT) [summary](/paper/Improving_Language_Understanding_by_Generative_Pre-Training.md)
 - [NAACL 2018] Deep contextualized word representations(ELMo) [summary](/paper/Deep_contextualized_word_representations.md)
 
 ## Text Classification
