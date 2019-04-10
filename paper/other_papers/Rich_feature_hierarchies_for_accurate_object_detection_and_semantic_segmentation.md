@@ -23,7 +23,7 @@
 				1. Create initial regions.
 				2. Calculate the similarities between all neighbouring regions.
 				3. The two most similar regions are grouped together.
-				4. Repeat step2 and step3 until the whole image becomes a single region.
+				4. Repeat last 2 steps until the whole image becomes a single region.
 			2. Diversification Strategies:
 				Diversify the sampling and create a set of complementary strategies whose locations are combined afterwards.
 	2. CNN Feature Extractor:
