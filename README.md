@@ -49,3 +49,6 @@
 # Other Categories of Papers
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
 - [ICCV 2017] Focal Loss for Dense Object Detection [summary](/paper/other_papers/Focal_Loss_for_Dense_Object_Detection.md)
+
+## Object Detection
+- [CVPR 2014] Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN) [summary](/paper/other_papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation.md)
