@@ -51,4 +51,5 @@
 - [ICCV 2017] Focal Loss for Dense Object Detection [summary](/paper/other_papers/Focal_Loss_for_Dense_Object_Detection.md)
 
 ## Object Detection
+- [ICCV 2015] Fast R-CNN [summary](/paper/other_papers/Fast_R-CNN.md)
 - [CVPR 2014] Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN) [summary](/paper/other_papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation.md)
