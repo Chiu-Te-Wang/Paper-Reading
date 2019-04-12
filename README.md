@@ -51,5 +51,6 @@
 - [ICCV 2017] Focal Loss for Dense Object Detection [summary](/paper/other_papers/Focal_Loss_for_Dense_Object_Detection.md)
 
 ## Object Detection
+- [NIPS 2015] Faster r-cnn: Towards real-time object detection with region proposal networks [summary](/paper/other_papers/Faster_r-cnn-_Towards_real-time_object_detection_with_region_proposal_networks.md)
 - [ICCV 2015] Fast R-CNN [summary](/paper/other_papers/Fast_R-CNN.md)
 - [CVPR 2014] Rich feature hierarchies for accurate object detection and semantic segmentation(R-CNN) [summary](/paper/other_papers/Rich_feature_hierarchies_for_accurate_object_detection_and_semantic_segmentation.md)
