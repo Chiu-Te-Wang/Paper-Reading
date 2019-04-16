@@ -32,6 +32,7 @@
 			- ![Linear transformations Loss Function1](pic/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment_fig6.PNG)
 			- ![Linear transformations Loss Function2](pic/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment_fig7.PNG)
 			- Learn a k x k square matrix as a linear transformation on entity vectors from L<sub>i</sub> to L<sub>j</sub>.
+	- MTransE combines the above two component models, and minimizes the loss function : J = S<sub>K</sub> + αS<sub>A</sub>
 
 - Results:
 	![Results](pic/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment_fig8.PNG)
