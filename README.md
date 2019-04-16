@@ -10,8 +10,8 @@
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
 ### Knowledge Alignment
-- [2017 IJCAI] Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment [summary](/paper/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment.md)
-- [2017 IJCAI] Iterative Entity Alignment via Joint Knowledge Embeddings [summary](/paper/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings.md)
+- [2017 IJCAI] Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment(MTransE) [summary](/paper/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment.md)
+- [2017 IJCAI] Iterative Entity Alignment via Joint Knowledge Embeddings(ITransE) [summary](/paper/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings.md)
 
 ## Natural Language Understanding(NLU) Related
 - [arXiv 2019] Multi-Task Deep Neural Networks for Natural Language Understanding(MT-DNN) [summary](/paper/Multi-Task_Deep_Neural_Networks_for_Natural_Language_Understanding.md)

@@ -40,7 +40,6 @@
 			- Based on reliability scores of newly aligned entities, formalize the score function of Soft Alignment as:
 				- ![Score Function of Soft Alignment](pic/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings_fig6.PNG)
 
-
 - Results:
 	![Results](pic/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings_fig7.PNG)
 
