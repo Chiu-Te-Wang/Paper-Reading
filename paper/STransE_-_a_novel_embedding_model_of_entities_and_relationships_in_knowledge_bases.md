@@ -6,6 +6,7 @@
 ## Keywords
 - Knowledge Graph
 - Knowledge Representation
+- Link Prediction
 
 ## Contribution
 - Combine two very simple relation-prediction models, the Structured Embedding(SE) model[Bordes et al., 2011](https://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf) and TransE, into a single model, STransE.
