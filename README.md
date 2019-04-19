@@ -14,6 +14,7 @@
 - [2017 IJCAI] Iterative Entity Alignment via Joint Knowledge Embeddings(ITransE) [summary](/paper/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings.md)
 
 ### Knowledge Representation
+- [2018 AAAI] Convolutional 2D Knowledge Graph Embeddings(ConvE) [summary](/paper/Convolutional_2D_Knowledge_Graph_Embeddings.md)
 - [2016 NAACL-HLT] STransE: a novel embedding model of entities and relationships in knowledge bases(STransE) [summary](/paper/STransE_-_a_novel_embedding_model_of_entities_and_relationships_in_knowledge_bases.md)
 
 ## Natural Language Understanding(NLU) Related
