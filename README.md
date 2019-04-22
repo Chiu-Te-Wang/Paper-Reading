@@ -54,6 +54,9 @@
 ## Nature Language Generation(NLG)
 - [arXiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
 
+## Machine Translation(MT)
+- [ICLR 2018] Unsupervised Machine Translation Using Monolingual Corpora Only [summary](/paper/Unsupervised_Machine_Translation_Using_Monolingual_Corpora_Only.md)
+
 # Other Categories of Papers
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
 - [ICCV 2017] Focal Loss for Dense Object Detection [summary](/paper/other_papers/Focal_Loss_for_Dense_Object_Detection.md)
