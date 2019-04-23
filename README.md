@@ -56,6 +56,7 @@
 
 ## Machine Translation(MT)
 - [ICLR 2018] Unsupervised Machine Translation Using Monolingual Corpora Only [summary](/paper/Unsupervised_Machine_Translation_Using_Monolingual_Corpora_Only.md)
+- [ICLR 2018] Word Translation Without Parallel Data [summary](/paper/Word_Translation_Without_Parallel_Data.md)
 
 # Other Categories of Papers
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
