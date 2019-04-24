@@ -55,6 +55,7 @@
 - [arXiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
 
 ## Machine Translation(MT)
+- [EMNLP 2018] Phrase-Based & Neural Unsupervised Machine Translation [summary](/paper/Phrase-Based_&_Neural_Unsupervised_Machine_Translation.md)
 - [ICLR 2018] Unsupervised Machine Translation Using Monolingual Corpora Only [summary](/paper/Unsupervised_Machine_Translation_Using_Monolingual_Corpora_Only.md)
 - [ICLR 2018] Word Translation Without Parallel Data [summary](/paper/Word_Translation_Without_Parallel_Data.md)
 
