@@ -1,6 +1,6 @@
 # BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 ## Information
-- 2018 arXiv
+- 2019 NAACL-HLT
 - Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova
 
 ## Keywords
