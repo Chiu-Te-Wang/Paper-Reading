@@ -32,6 +32,7 @@
 
 ## Text Classification
 - [2019 AAAI] **Graph Convolutional Networks** for Text Classification [summary](/paper/Graph_Convolutional_Networks_for_Text_Classification.md)
+- [2018 COLING] SGM: Sequence Generation Model for Multi-label Classification [summary](/paper/SGM_-_Sequence_Generation_Model_for_Multi-label_Classification.md)
 - [2018 EMNLP] Investigating **Capsule Networks with Dynamic Routing** for Text Classification [summary](/paper/Investigating_Capsule_Networks_with_Dynamic_Routing_for_Text_Classification.md)
 - [2018 ACL] **Universal Language Model Fine-tuning** for Text Classification [summary](/paper/Universal_Language_Model_Fine-tuning_for_Text_Classification.md)
 - [2018 ACL] **Joint Embedding of Words and Labels** for Text Classification [summary](/paper/Joint_Embedding_of_Words_and_Labels_for_Text_Classification.md)
