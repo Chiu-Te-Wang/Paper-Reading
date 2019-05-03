@@ -54,11 +54,11 @@
 			- Given n Transformer blocks pick k blocks uniformly at random and fix the parameters for each selected block during fine-tuning.
 	2. Sampling a Search Candidate:
 		- At each time, sample transformations uniformly at random.
-			![Search Candidate Sampling Algorithm](pic/Language_Models_with_Transformers_fig1.PNG)
-			![Search candidate sampling](pic/Language_Models_with_Transformers_fig2.PNG)
+			- ![Search Candidate Sampling Algorithm](pic/Language_Models_with_Transformers_fig1.PNG)
+			- ![Search candidate sampling](pic/Language_Models_with_Transformers_fig2.PNG)
 	3. Algorithm:
-		![Coordinate architecture search Algorithm](pic/Language_Models_with_Transformers_fig4.PNG)
-		![Coordinate architecture search](pic/Language_Models_with_Transformers_fig3.PNG)
+		- ![Coordinate architecture search Algorithm](pic/Language_Models_with_Transformers_fig4.PNG)
+		- ![Coordinate architecture search](pic/Language_Models_with_Transformers_fig3.PNG)
 		- Use a simple greedy strategy for architecture search.
 		- Starting with either GPT or BERT as pretrained model we repeat the search n times.
 		- Each time, sample a candidate, then fine-tune it and update the best candidate if necessary.
