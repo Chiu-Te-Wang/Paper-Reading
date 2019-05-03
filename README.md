@@ -24,6 +24,7 @@
 - [Interspeech 2016] Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [summary](/paper/Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling.md) 
 
 ## Language Representation
+- [arXiv 2019] Language Models with Transformers [summary](/paper/Language_Models_with_Transformers.md)
 - [arXiv 2019] Cross-lingual Language Model Pretraining [summary](/paper/Cross-lingual_Language_Model_Pretraining.md)
 - [website 2018] Language models are unsupervised multitask learners(GPT-2) [summary](/paper/Language_models_are_unsupervised_multitask_learners.md)
 - [NAACL-HLT 2019] BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(BERT) [summary](/paper/BERT-_Pre-training_of_Deep_Bidirectional_Transformers_for_Language_Understanding.md)
