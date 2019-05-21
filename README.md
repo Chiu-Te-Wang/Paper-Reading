@@ -14,6 +14,7 @@
 - [2017 IJCAI] Iterative Entity Alignment via Joint Knowledge Embeddings(ITransE) [summary](/paper/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings.md)
 
 ### Knowledge Representation
+- [2019 ICML] Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs(RSN) [summary](/paper/Learning_to_Exploit_Long-term_Relational_Dependencies_in_Knowledge_Graphs.md)
 - [2019 ICLR] RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space(RotatE) [summary](/paper/RotatE_-_Knowledge_Graph_Embedding_by_Relational_Rotation_in_Complex_Space.md)
 - [2018 AAAI] Convolutional 2D Knowledge Graph Embeddings(ConvE) [summary](/paper/Convolutional_2D_Knowledge_Graph_Embeddings.md)
 - [2016 NAACL-HLT] STransE: a novel embedding model of entities and relationships in knowledge bases(STransE) [summary](/paper/STransE_-_a_novel_embedding_model_of_entities_and_relationships_in_knowledge_bases.md)
