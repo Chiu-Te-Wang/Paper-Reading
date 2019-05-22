@@ -51,6 +51,7 @@
 - [IJCAI 2018] Commonsense Knowledge Aware Conversation Generation with Graph Attention [summary](/paper/Knowledge_Aware_Conversation_Generation_with_Graph_Attention.md)
 
 ## Named Entity Recognition
+- [EMNLP 2018] A Neural Transition-based Model for Nested Mention Recognition [summary](/paper/A_Neural_Transition-based_Model_for_Nested_Mention_Recognition.md)
 - [arXiv 2018] Learning Named Entity Tagger using Domain-Specific Dictionary [summary](/paper/Learning_Named_Entity_Tagger_using_Domain-Specific_Dictionary.md)
 - [NAACL 2018] A Neural Layered Model for Nested Named Entity Recognition [summary](/paper/A_Neural_Layered_Model_for_Nested_Named_Entity_Recognition.md)
 - [EMNLP 2018] Neural Segmental Hypergraphs for Overlapping Mention Recognition [summary](/paper/Neural_Segmental_Hypergraphs_for_Overlapping_Mention_Recognition.md)
