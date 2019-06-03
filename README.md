@@ -61,6 +61,7 @@
 - [EMNLP 2017] Labeling Gaps Between Words: Recognizing Overlapping Mentions with Mention Separators [summary](/paper/Labeling_Gaps_Between_Words-_Recognizing_Overlapping_Mentions_with_Mention_Separators.md)
 
 ## Nature Language Generation(NLG)
+- [ICML 2019] MASS: Masked Sequence to Sequence Pre-training for Language Generation [summary](/paper/MASS_-_Masked_Sequence_to_Sequence_Pre-training_for_Language_Generation.md)
 - [arXiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
 
 ## Machine Translation(MT)
