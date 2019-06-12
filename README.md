@@ -28,6 +28,7 @@
 - [Interspeech 2016] Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [summary](/paper/Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling.md) 
 
 ## Language Representation
+- [ACL 2019] BERT Rediscovers the Classical NLP Pipeline [summary](/paper/BERT_Rediscovers_the_Classical_NLP_Pipeline.md)
 - [arXiv 2019] Unified Language Model Pre-training for Natural Language Understanding and Generation(UNILM) [summary](/paper/Unified_Language_Model_Pre-training_for_Natural_Language_Understanding_and_Generation.md)
 - [ACL 2019] ERNIE: Enhanced Language Representation with Informative Entities(ERNIE) [summary](/paper/ERNIE_-_Enhanced_Language_Representation_with_Informative_Entities.md)
 - [arXiv 2019] Language Models with Transformers [summary](/paper/Language_Models_with_Transformers.md)
