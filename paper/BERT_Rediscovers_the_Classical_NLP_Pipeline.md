@@ -60,4 +60,4 @@
 		- ![Layer-wise metrics on BERT-large](pic/BERT_Rediscovers_the_Classical_NLP_Pipeline_fig6.PNG)
 
 ## Source Code
-- [Edge Probing Code](https://github.com/jsalt18-sentence-repl/jiant.)
+- [Edge Probing Code](https://github.com/jsalt18-sentence-repl/jiant)
