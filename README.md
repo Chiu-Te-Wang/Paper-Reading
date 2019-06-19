@@ -78,6 +78,7 @@
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
 - [ICLR 2019] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks [summary](/paper/other_papers/The_Lottery_Ticket_Hypothesis_-_Finding_Sparse,_Trainable_Neural_Networks.md)
 - [ICCV 2017] Focal Loss for Dense Object Detection [summary](/paper/other_papers/Focal_Loss_for_Dense_Object_Detection.md)
+- [NIPS 2014 Deep Learning Workshop] Distilling the Knowledge in a Neural Network [summary](/paper/other_papers/Distilling_the_Knowledge_in_a_Neural_Network.md)
 
 ## Object Detection
 - [CVPR 2016] You Only Look Once: Unified, Real-Time Object Detection(YOLO) [summary](/paper/other_papers/You_Only_Look_Once_-_Unified,_Real-Time_Object_Detection.md)
