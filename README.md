@@ -10,6 +10,7 @@
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
 ### Knowledge Alignment
+- [2019 ACL] Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network [summary](/paper/Cross-lingual_Knowledge_Graph_Alignment_via_Graph_Matching_Neural_Network.md)
 - [2017 IJCAI] Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment(MTransE) [summary](/paper/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment.md)
 - [2017 IJCAI] Iterative Entity Alignment via Joint Knowledge Embeddings(ITransE) [summary](/paper/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings.md)
 
