@@ -32,6 +32,7 @@
 
 ## Language Representation
 - [arXiv 2019] XLNet: Generalized Autoregressive Pretraining for Language Understanding(XLNet) [summary](/paper/XLNet_-_Generalized_Autoregressive_Pretraining_for_Language_Understanding.md)
+- [ACL 2019] Is Word Segmentation Necessary for Deep Learning of Chinese Representations? [summary](/paper/Is_Word_Segmentation_Necessary_for_Deep_Learning_of_Chinese_Representations.md)
 - [ACL 2019] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context(Transformer-XL) [summary](/paper/Transformer-XL_-_Attentive_Language_Models_Beyond_a_Fixed-Length_Context.md)
 - [ACL 2019] BERT Rediscovers the Classical NLP Pipeline [summary](/paper/BERT_Rediscovers_the_Classical_NLP_Pipeline.md)
 - [arXiv 2019] Unified Language Model Pre-training for Natural Language Understanding and Generation(UNILM) [summary](/paper/Unified_Language_Model_Pre-training_for_Natural_Language_Understanding_and_Generation.md)
