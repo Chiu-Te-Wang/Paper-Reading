@@ -14,6 +14,9 @@
 - [2017 IJCAI] Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment(MTransE) [summary](/paper/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment.md)
 - [2017 IJCAI] Iterative Entity Alignment via Joint Knowledge Embeddings(ITransE) [summary](/paper/Iterative_Entity_Alignment_via_Joint_Knowledge_Embeddings.md)
 
+### Knowledge Graph Construction/Completion
+- [2019 ACL] COMET: Commonsense Transformers for Automatic Knowledge Graph Construction [summary](/paper/COMET_-_Commonsense_Transformers_for_Automatic_Knowledge_Graph_Construction.md)
+
 ### Knowledge Representation
 - [2019 ICML] Learning to Exploit Long-term Relational Dependencies in Knowledge Graphs(RSN) [summary](/paper/Learning_to_Exploit_Long-term_Relational_Dependencies_in_Knowledge_Graphs.md)
 - [2019 ICLR] RotatE: Knowledge Graph Embedding by Relational Rotation in Complex Space(RotatE) [summary](/paper/RotatE_-_Knowledge_Graph_Embedding_by_Relational_Rotation_in_Complex_Space.md)
