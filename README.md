@@ -84,6 +84,9 @@
 - [ICLR 2018] Word Translation Without Parallel Data [summary](/paper/Word_Translation_Without_Parallel_Data.md)
 - [ICLR 2018] Unsupervised Neural Machine Translation [summary](/paper/Unsupervised_Neural_Machine_Translation.md)
 
+## Chinese Word Segmentation(CWS)
+- [arXiv 2019] Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning [summary](/paper/Toward_Fast_and_Accurate_Neural_Chinese_Word_Segmentation_with_Multi-Criteria_Learning.md)
+
 # Other Categories of Papers
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
 - [ICLR 2019] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks [summary](/paper/other_papers/The_Lottery_Ticket_Hypothesis_-_Finding_Sparse,_Trainable_Neural_Networks.md)
