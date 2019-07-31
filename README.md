@@ -9,6 +9,9 @@
 ### Knowledge Graphs for Recommendation
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
+## Knowledge Graph for Machine Reading Comprehension(MRC)
+- [2019 ACL] Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension(KT-NET) [summary](/paper/Enhancing_Pre-Trained_Language_Representations_with_Rich_Knowledge_for_Machine_Reading_Comprehension.md)
+
 ### Knowledge Alignment
 - [2019 ACL] Cross-lingual Knowledge Graph Alignment via Graph Matching Neural Network [summary](/paper/Cross-lingual_Knowledge_Graph_Alignment_via_Graph_Matching_Neural_Network.md)
 - [2017 IJCAI] Multilingual Knowledge Graph Embeddings for Cross-lingual Knowledge Alignment(MTransE) [summary](/paper/Multilingual_Knowledge_Graph_Embeddings_for_Cross-lingual_Knowledge_Alignment.md)
