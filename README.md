@@ -9,7 +9,7 @@
 ### Knowledge Graphs for Recommendation
 - [2019 AAAI] Explainable Reasoning over Knowledge Graphs for Recommendation [summary](/paper/Explainable_Reasoning_over_Knowledge_Graphs_for_Recommendation.md)
 
-## Knowledge Graph for Machine Reading Comprehension(MRC)
+### Knowledge Graph for Machine Reading Comprehension(MRC)
 - [2019 ACL] Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension(KT-NET) [summary](/paper/Enhancing_Pre-Trained_Language_Representations_with_Rich_Knowledge_for_Machine_Reading_Comprehension.md)
 
 ### Knowledge Alignment
