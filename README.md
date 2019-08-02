@@ -30,6 +30,7 @@
 - [2016 NAACL-HLT] STransE: a novel embedding model of entities and relationships in knowledge bases(STransE) [summary](/paper/STransE_-_a_novel_embedding_model_of_entities_and_relationships_in_knowledge_bases.md)
 
 ## Natural Language Understanding(NLU) Related
+- [arXiv 2019] SpanBERT: Improving Pre-training by Representing and Predicting Spans(SpanBERT) [summary](/paper/SpanBERT_-_Improving_Pre-training_by_Representing_and_Predicting_Spans.md)
 - [ACL 2019] Matching Article Pairs with Graphical Decomposition and Convolutions [summary](/paper/Matching_Article_Pairs_with_Graphical_Decomposition_and_Convolutions.md)
 - [ACL 2019] Attention-based Conditioning Methods for External Knowledge Integration [summary](/paper/Attention-based_Conditioning_Methods_for_External_Knowledge_Integration.md)
 - [ICLR 2019] Ordered Neurons: Integrating Tree Structures into Recurrent Neural Networks(ON-LSTM) [summary](/paper/Ordered_Neurons_-_Integrating_Tree_Structures_into_Recurrent_Neural_Networks.md)
