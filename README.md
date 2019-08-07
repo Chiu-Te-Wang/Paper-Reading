@@ -87,6 +87,7 @@
 - [arXiv 2019] Pretraining-Based Natural Language Generation for Text Summarization [summary](/paper/Pretraining-Based_Natural_Language_Generation_for_Text_Summarization.md)
 
 ## Machine Translation(MT)
+- [ACL 2019] Bridging the Gap between Training and Inference for Neural Machine Translation [summary](/paper/Bridging_the_Gap_between_Training_and_Inference_for_Neural_Machine_Translation.md)
 - [NAACL 2019] Competence-based Curriculum Learning for Neural Machine Translation [summary](/paper/Competence-based_Curriculum_Learning_for_Neural_Machine_Translation.md)
 - [EMNLP 2018] Phrase-Based & Neural Unsupervised Machine Translation [summary](/paper/Phrase-Based_&_Neural_Unsupervised_Machine_Translation.md)
 - [ICLR 2018] Unsupervised Machine Translation Using Monolingual Corpora Only [summary](/paper/Unsupervised_Machine_Translation_Using_Monolingual_Corpora_Only.md)
