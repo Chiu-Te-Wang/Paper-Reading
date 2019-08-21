@@ -97,6 +97,9 @@
 ## Chinese Word Segmentation(CWS)
 - [arXiv 2019] Toward Fast and Accurate Neural Chinese Word Segmentation with Multi-Criteria Learning [summary](/paper/Toward_Fast_and_Accurate_Neural_Chinese_Word_Segmentation_with_Multi-Criteria_Learning.md)
 
+## Word Sense Disambiguation(WSD)
+- [arXiv 2019] SenseBERT: Driving Some Sense into BERT(SenseBERT) [summary](SenseBERT_-_Driving_Some_Sense_into_BERT.md)
+
 # Other Categories of Papers
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
 - [ICLR 2019] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks [summary](/paper/other_papers/The_Lottery_Ticket_Hypothesis_-_Finding_Sparse,_Trainable_Neural_Networks.md)
