@@ -104,6 +104,9 @@
 ## Word Sense Disambiguation(WSD)
 - [arXiv 2019] SenseBERT: Driving Some Sense into BERT(SenseBERT) [summary](/paper/SenseBERT_-_Driving_Some_Sense_into_BERT.md)
 
+## MultiModel(Text+Image) for Visual Question Answering(VQA):
+- [arXiv 2019] Fusion of Detected Objects in Text for Visual Question Answering(B2T2) [summary](/paper/Fusion_of_Detected_Objects_in_Text_for_Visual_Question_Answering.md)
+
 # Other Categories of Papers
 ## Model Design(Model Archetecture, Optimizer, loss function, ...)
 - [ICLR 2019] The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks [summary](/paper/other_papers/The_Lottery_Ticket_Hypothesis_-_Finding_Sparse,_Trainable_Neural_Networks.md)
