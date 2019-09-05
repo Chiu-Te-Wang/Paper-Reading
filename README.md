@@ -104,7 +104,8 @@
 ## Word Sense Disambiguation(WSD)
 - [arXiv 2019] SenseBERT: Driving Some Sense into BERT(SenseBERT) [summary](/paper/SenseBERT_-_Driving_Some_Sense_into_BERT.md)
 
-## MultiModel(Text+Image) for Visual Question Answering(VQA):
+## MultiModel(Text+Image) for Vision-and-Language Tasks:
+- [arXiv 2019] ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks(ViLBERT) [summary](/paper/ViLBERT_-_Pretraining_Task-Agnostic_Visiolinguistic_Representations_for_Vision-and-Language_Tasks.md)
 - [arXiv 2019] Fusion of Detected Objects in Text for Visual Question Answering(B2T2) [summary](/paper/Fusion_of_Detected_Objects_in_Text_for_Visual_Question_Answering.md)
 
 # Other Categories of Papers
