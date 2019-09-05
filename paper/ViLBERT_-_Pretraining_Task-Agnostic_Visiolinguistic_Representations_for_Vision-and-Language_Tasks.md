@@ -58,7 +58,7 @@
 		- Effect of Visual Stream Depth
 			- ![Results on the Effect of Visual Stream Depth](pic/ViLBERT_-_Pretraining_Task-Agnostic_Visiolinguistic_Representations_for_Vision-and-Language_Tasks_fig6.PNG)
 		- Benefits of Large Training Sets:
-			- ![Results on the Benefits of Large Training Sets](pic/ViLBERT_-_Pretraining_Task-Agnostic_Visiolinguistic_Representations_for_Vision-and-Language_Tasks_fig6.PNG)
+			- ![Results on the Benefits of Large Training Sets](pic/ViLBERT_-_Pretraining_Task-Agnostic_Visiolinguistic_Representations_for_Vision-and-Language_Tasks_fig7.PNG)
 
 ## Source Code
 - not found
