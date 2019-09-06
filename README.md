@@ -43,6 +43,7 @@
 - [Interspeech 2016] Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [summary](/paper/Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling.md) 
 
 ## Language Representation
+- [arXiv 2019] RoBERTa: A Robustly Optimized BERT Pretraining Approach(RoBERTa) [summary](/paper/RoBERTa_-_A_Robustly_Optimized_BERT_Pretraining_Approach.md)
 - [ACL 2019] Few-Shot Representation Learning for Out-Of-Vocabulary Words(HiCE) [summary](/paper/Few-Shot_Representation_Learning_for_Out-Of-Vocabulary_Words.md)
 - [arXiv 2019] XLNet: Generalized Autoregressive Pretraining for Language Understanding(XLNet) [summary](/paper/XLNet_-_Generalized_Autoregressive_Pretraining_for_Language_Understanding.md)
 - [ACL 2019] Is Word Segmentation Necessary for Deep Learning of Chinese Representations? [summary](/paper/Is_Word_Segmentation_Necessary_for_Deep_Learning_of_Chinese_Representations.md)
