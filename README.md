@@ -49,6 +49,7 @@
 - [ACL 2019] Is Word Segmentation Necessary for Deep Learning of Chinese Representations? [summary](/paper/Is_Word_Segmentation_Necessary_for_Deep_Learning_of_Chinese_Representations.md)
 - [ACL 2019] Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context(Transformer-XL) [summary](/paper/Transformer-XL_-_Attentive_Language_Models_Beyond_a_Fixed-Length_Context.md)
 - [ACL 2019] BERT Rediscovers the Classical NLP Pipeline [summary](/paper/BERT_Rediscovers_the_Classical_NLP_Pipeline.md)
+- [ACL 2019 Short] What does BERT learn about the structure of language? [summary](/paper/What_does_BERT_learn_about_the_structure_of_language.md)
 - [arXiv 2019] Unified Language Model Pre-training for Natural Language Understanding and Generation(UNILM) [summary](/paper/Unified_Language_Model_Pre-training_for_Natural_Language_Understanding_and_Generation.md)
 - [ACL 2019] ERNIE: Enhanced Language Representation with Informative Entities(ERNIE) [summary](/paper/ERNIE_-_Enhanced_Language_Representation_with_Informative_Entities.md)
 - [arXiv 2019] Language Models with Transformers [summary](/paper/Language_Models_with_Transformers.md)
