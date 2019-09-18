@@ -19,7 +19,7 @@
 - Input Representation:
 	Apply Byte Pair Encoding (BPE) which is a practical middle ground between character and word level language modeling.
 
-- Model 
+- Model
 	- Largely follows the details of the OpenAI GPT [model](Improving_Language_Understanding_by_Generative_Pre-Training.md) with a few modification.
 		- Layer normalization was moved to the input of each sub-block.
 		- Additional layer normalization was added after the final self-attention block.
