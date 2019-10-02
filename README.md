@@ -30,6 +30,7 @@
 - [2016 NAACL-HLT] STransE: a novel embedding model of entities and relationships in knowledge bases(STransE) [summary](/paper/STransE_-_a_novel_embedding_model_of_entities_and_relationships_in_knowledge_bases.md)
 
 ## Natural Language Understanding(NLU) Related
+- [arXiv 2019] ALBERT: A Lite BERT for Self-supervised Learning of Language Representations(ALBERT) [summary](/paper/ALBERT_-_A_Lite_BERT_for_Self-supervised_Learning_of_Language_Representations.md)
 - [arXiv 2019] ERNIE 2.0: A Continual Pre-training Framework for Language Understanding(ERNIE 2.0) [summary](/paper/ERNIE_2.0_-_A_Continual_Pre-training_Framework_for_Language_Understanding.md)
 - [arXiv 2019] ERNIE: Enhanced Representation through Knowledge Integration(ERNIE 1.0) [summary](/paper/ERNIE_-_Enhanced_Representation_through_Knowledge_Integration.md)
 - [arXiv 2019] SpanBERT: Improving Pre-training by Representing and Predicting Spans(SpanBERT) [summary](/paper/SpanBERT_-_Improving_Pre-training_by_Representing_and_Predicting_Spans.md)
