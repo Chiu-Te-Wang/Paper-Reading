@@ -1,6 +1,6 @@
 # XLNet: Generalized Autoregressive Pretraining for Language Understanding(XLNet)
 ## Information
-- 2019 arXiv
+- 2019 NIPS
 - Zhilin Yang, Zihang Dai, et al.
 
 ## Keywords

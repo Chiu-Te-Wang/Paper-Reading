@@ -1,6 +1,6 @@
 # Multi-Task Deep Neural Networks for Natural Language Understanding
 ## Information
-- 2019 arXiv
+- 2019 ACL
 - Xiaodong Li, Pengcheng He, Weizhu Chen, Jianfeng Gao
 
 ## Keywords

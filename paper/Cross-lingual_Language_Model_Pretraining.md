@@ -1,6 +1,6 @@
-# Cross-lingual Language Model Pretraining
+# Cross-lingual Language Model Pretraining (XLM)
 ## Information
-- 2019 arXiv
+- 2019 NIPS
 - Guillaume Lample and Alexis Conneau
 
 ## Keywords
