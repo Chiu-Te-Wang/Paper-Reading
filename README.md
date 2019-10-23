@@ -77,6 +77,7 @@
 - [IJCAI 2018] Commonsense Knowledge Aware Conversation Generation with Graph Attention [summary](/paper/Knowledge_Aware_Conversation_Generation_with_Graph_Attention.md)
 
 ## Named Entity Recognition
+- [arXiv 2019] Simplify the Usage of Lexicon in Chinese NER [summary](/paper/Simplify_the_Usage_of_Lexicon_in_Chinese_NER.md)
 - [IJCAI 2018] Improving Low Resource Named Entity Recognition using Cross-lingual Knowledge Transfer [summary](/paper/Improving_Low_Resource_Named_Entity_Recognition_using_Cross-lingual_Knowledge_Transfer.md)
 - [ACL 2018] Chinese NER Using Lattice LSTM [summary](/paper/Chinese_NER_Using_Lattice_LSTM.md)
 - [COLING 2018] Contextual String Embeddings for Sequence Labeling [summary](/paper/Contextual_String_Embeddings_for_Sequence_Labeling.md)
