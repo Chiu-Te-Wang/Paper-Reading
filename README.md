@@ -44,6 +44,7 @@
 - [Interspeech 2016] Attention-Based Recurrent Neural Network Models for Joint Intent Detection and Slot Filling [summary](/paper/Attention-Based_Recurrent_Neural_Network_Models_for_Joint_Intent_Detection_and_Slot_Filling.md) 
 
 ## Language Representation
+- [arXiv 2019] BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension(BART) [summary](/paper/BART_-_Denoising_Sequence-to-Sequence_Pre-training_for_Natural_Language_Generation,_Translation,_and_Comprehension.md)
 - [arXiv 2019] RoBERTa: A Robustly Optimized BERT Pretraining Approach(RoBERTa) [summary](/paper/RoBERTa_-_A_Robustly_Optimized_BERT_Pretraining_Approach.md)
 - [ACL 2019] Few-Shot Representation Learning for Out-Of-Vocabulary Words(HiCE) [summary](/paper/Few-Shot_Representation_Learning_for_Out-Of-Vocabulary_Words.md)
 - [NIPS 2019] XLNet: Generalized Autoregressive Pretraining for Language Understanding(XLNet) [summary](/paper/XLNet_-_Generalized_Autoregressive_Pretraining_for_Language_Understanding.md)
